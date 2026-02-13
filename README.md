@@ -1,5 +1,8 @@
-# flatsearch
-A website for searching flatmates and flats
+# FlatSearch
+**FlatSearch** is a modern full-stack rental discovery platform built to make finding flats and roommates faster, safer, and more context-driven. The platform combines geospatial search, real-time chat, and secure authentication to connect renters directly with property owners and potential flatmates.
+
+## 🌐 Live Website
+👉 https://flatsearch.in
 
 ## 🚀 Tech Stack
 
